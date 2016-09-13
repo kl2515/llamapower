@@ -1,0 +1,33 @@
+@font-face {
+    font-family: junction-regular;
+    src: url(junction-regular.woff);
+}
+
+@font-face {
+    font-family: junction-bold;
+    src: url(junction-bold.woff);
+}
+
+.rowcolor {
+	background-color: #FFFFCC;
+}
+
+.rowcolor2 {
+	background-color: #FFFFFF;
+}
+
+.borderradius {
+	border-radius: 5px;
+}
+
+.bottompadding {
+	padding-bottom: 1em;
+}
+
+.bottommargin {
+	margin-bottom: 1em;
+}
+
+.junctionfont {
+	font-family: junction-regular;
+}
